@@ -13,6 +13,8 @@ I identify myself as a team player with strong communication skills and entrepre
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
 <a href="https://www.linkedin.com/in/roli-verma/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="roli" /></a>
+<a href="https://medium.com/@roliverma" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@roliverma" /></a>
+
 
 <!---
 RoliVerma/RoliVerma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
