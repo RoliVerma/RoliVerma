@@ -1,5 +1,5 @@
 Hi, I'm [Roli Verma](https://www.linkedin.com/in/roli-verma/), a Data Analytics Specialist from India.
-I specialised in Computer Science and Engineering from KIIT University and my interests are problem solving, competitive programming, data exploration and machine learning.
+I specialised in Computer Science and Engineering from [KIIT University](https://kiit.ac.in/) and my interests are problem solving, competitive programming, data exploration and machine learning.
 I identify myself as a team player with strong communication skills and entrepreneurial mindset.
 
 ### 🧰 Languages and Tools
