@@ -1,5 +1,5 @@
-## Hi! I'm [Roli Verma](https://www.linkedin.com/in/roli-verma/), Data Analytics Specialist from India.  👋 ![](https://komarev.com/ghpvc/?username=RoliVerma&color=green&&style=flat)
-I specialised in Computer Science and Engineering from [KIIT University](https://kiit.ac.in/) and my interests are problem solving, competitive programming, data exploration and machine learning.
+## Hi! I'm [Roli Verma](https://www.linkedin.com/in/roli-verma/), aspiring Data Scientist from India.  👋 ![](https://komarev.com/ghpvc/?username=RoliVerma&color=green&&style=flat)
+I specialised in Computer Science and Engineering from [KIIT University](https://kiit.ac.in/) and work as Audit Data Analyst at [Deloitte USI(https://www2.deloitte.com/ui/en/pages/careers/articles/join-deloitte-audit-careers.html?icid=top_join-deloitte-audit-careers). My interests are problem solving, competitive programming, data exploration and machine learning.
 I identify myself as a team player with strong communication skills and entrepreneurial mindset.
 
 ### 🧰 Languages and Tools
