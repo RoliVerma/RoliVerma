@@ -1,5 +1,5 @@
 ## Hi! I'm [Roli Verma](https://www.linkedin.com/in/roli-verma/), aspiring Data Scientist from India.  👋 ![](https://komarev.com/ghpvc/?username=RoliVerma&color=green&&style=flat)
-I specialised in Computer Science and Engineering from [KIIT University](https://kiit.ac.in/) and work as Audit Data Analyst at [Deloitte USI](https://www2.deloitte.com/ui/en/pages/careers/articles/join-deloitte-audit-careers.html?icid=top_join-deloitte-audit-careers). Currently, I'm pursuing Post Graduate Program from University of Texas, Austin in Machine Learning and Artificial Intelligence. Apart from technical endeavours, I identify myself as a team player with strong communication skills and entrepreneurial mindset.
+I specialised in Computer Science and Engineering from [KIIT University](https://kiit.ac.in/) and work as Audit Data Analyst at [Deloitte USI](https://www2.deloitte.com/ui/en/pages/careers/articles/join-deloitte-audit-careers.html?icid=top_join-deloitte-audit-careers). Currently, I'm pursuing Post Graduate Program from University of Texas, Austin in Machine Learning and Artificial Intelligence - [Academic Portfolio](https://eportfolio.mygreatlearning.com/roli-verma). Apart from technical endeavours, I identify myself as a team player with strong communication skills and entrepreneurial mindset.
 
 ### 🧰 Languages and Tools
 <p align="left"> 
